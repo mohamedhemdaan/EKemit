@@ -152,13 +152,7 @@ The project follows Onion Architecture and is organized into the following layer
 
 3. Configure JWT, Email, Redis, and Stripe settings.
 
-4. Apply migrations:
-
-```bash
-dotnet ef database update
-```
-
-5. Run the application.
+4. Run the application.
 
 ```bash
 dotnet run
