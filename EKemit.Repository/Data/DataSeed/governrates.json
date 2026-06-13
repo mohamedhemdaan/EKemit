@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "Damietta",
+    "PictureUrl": "images/governrates/Damietta.jpg"
+  },
+  {
+    "Name": "Aswan",
+    "PictureUrl": "images/governrates/Aswan.jpg"
+  },
+  {
+    "Name": "AlSharqia",
+    "PictureUrl": "images/governrates/AlSharqia.jpg"
+  },
+  {
+    "Name": "Sinai",
+    "PictureUrl": "images/governrates/Sinai.jpg"
+  },
+  {
+    "Name": "Fayoum",
+    "PictureUrl": "images/governrates/Fayoum.jpg"
+  },
+  {
+    "Name": "Cairo",
+    "PictureUrl": "images/governrates/Cairo.jpg"
+  },
+  {
+    "Name": "Alex",
+    "PictureUrl": "images/governrates/Alex.jpg"
+  }
+]

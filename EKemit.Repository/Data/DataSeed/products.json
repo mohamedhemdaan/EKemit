@@ -1,0 +1,343 @@
+[
+    {
+      
+      "Name": "طاجن فخار",
+      "Description": "طاجن  فخارية غير مطلية مع غطاء هي إضافة رائعة لأي مطبخ. مصنوعة من الفخار الطبيعي غير المطلي، وهي آمنة للاستخدام في الفرن والميكروويف وغسالة الصحون. مثالية لطهي مجموعة متنوعة من الأطباق، بما في ذلك اليخنات والحساء واللحوم والخضروات. تساعد الجرة الفخارية على الحفاظ على نكهة الطعام وتمنع الحرق. كما أنها سهلة التنظيف.",
+      "PictureUrl": "images/products/8027809c-d2b8-46f3-9e34-f95fa00f624eWhatsApp Image 2024-06-12 at 15.13.19_2db93173.jpg",
+      "Price": 300,
+      "ProductBrandId": 40,
+      "ProductTypeId": 1,
+      "GovernrateId": 5
+    },
+    {
+      
+      "Name": "اصيص زرع",
+      "Description": "إناء وجه مطلي باللون الأبيض هو إضافة رائعة لأي منزل. مصنوع من السيراميك المتين ومطلي باللون الأزرق الجميل. يتميز الإناء بوجه على الجانب الأمامي، مما يجعله قطعة ديكور فريدة من نوعها. مثالي للنباتات أو الديكور. سهل التنظيف بالماء والصابون.",
+      "PictureUrl": "images/products/db02b803-415f-4cee-9896-5ddbec2beac4WhatsApp Image 2024-06-12 at 15.13.19_dde9ec4d.jpg",
+      "Price": 250,
+      "ProductBrandId": 41,
+      "ProductTypeId": 1,
+      "GovernrateId": 5
+    },
+    {
+      "Name": "أواني فخارية",
+      "Description": "مجموعة من ثلاثة أواني فخارية صغيرة هي إضافة رائعة لأي منزل. مصنوعة من الفخار المتين بألوان متنوعة. تأتي الأواني بأحجام مختلفة، مما يجعلها مثالية للنباتات أو الديكور. سهلة التنظيف بالماء والصابون.",
+      "PictureUrl": "images/products/7752892e-3141-4c8c-8952-2ec81d99afa9WhatsApp Image 2024-06-12 at 18.19.31_eeac36b4.jpg",
+      "Price": 600,
+      "ProductBrandId": 42,
+      "ProductTypeId": 1,
+      "GovernrateId": 5
+    },
+    {
+     
+      "Name": "لبن",
+      "Description": "لبن بقرى مبستر عالىكامل الدسم",
+      "PictureUrl": "images/products/ca322d1c-43d2-41cf-b288-2ff133665ab6WhatsApp Image 2024-06-12 at 15.13.00_5affe8e8.jpg",
+      "Price": 50,
+      "ProductBrandId": 4,
+      "ProductTypeId": 12,
+      "GovernrateId": 1
+    },
+    {
+     
+      "Name": "مشبك",
+      "Description": "مشبك محلى بعسل النحل",
+      "PictureUrl": "images/products/48eb015b-c244-4c98-a566-1526e64e5ad0WhatsApp Image 2024-06-12 at 15.13.00_52015a4f.jpg",
+      "Price": 90,
+      "ProductBrandId": 6,
+      "ProductTypeId": 13,
+      "GovernrateId": 1
+    },
+    {
+      
+      "Name": "مشبك",
+      "Description": "مشب لذيذ",
+      "PictureUrl": "images/products/59281f99-749b-4e24-98fd-8944131e20deimages.jpeg",
+      "Price": 80,
+      "ProductBrandId": 7,
+      "ProductTypeId": 13,
+      "GovernrateId": 1
+    },
+    {
+      
+      "Name": "مشبك",
+      "Description": "مشبك محلى بالعسل الابيض",
+      "PictureUrl": "images/products/da5eba55-e80b-487e-9116-054fcff72dc6download (1).jpeg",
+      "Price": 100,
+      "ProductBrandId": 9,
+      "ProductTypeId": 13,
+      "GovernrateId": 1
+    },
+    {
+      
+      "Name": "مشبك",
+      "Description": "اربع قطع من مشبك",
+      "PictureUrl": "images/products/1185c145-f7ca-4aa4-842a-1fa644c5b149download.jpeg",
+      "Price": 85,
+      "ProductBrandId": 5,
+      "ProductTypeId": 13,
+      "GovernrateId": 1
+    },
+    {
+      
+      "Name": "كرسى",
+      "Description": "كرسي خشبي بتصميم بسيط هو إضافة رائعة لأي منزل. مصنوع من خشب الزان الطبيعي المتين والقوي. يأتي الكرسي بألوان مختلفة ليلائم ديكور منزلك. التصميم بسيط وعصري، مما يجعله قطعة أثاث متعددة الاستخدامات يمكن استخدامها في غرفة المعيشة أو غرفة الطعام أو المكتب. الكرسي مريح للجلوس، حتى بعد ساعات طويلة من الاستخدام",
+      "PictureUrl": "images/products/d7347ff2-0f5a-4715-9925-f7a85b042666WhatsApp Image 2024-06-12 at 15.12.59_462fdd45.jpg",
+      "Price": 800,
+      "ProductBrandId": 10,
+      "ProductTypeId": 2,
+      "GovernrateId": 1
+    },
+    {
+      
+      "Name": "طربيزة",
+      "Description": "طاولة جانبية معدنية دائرية هي إضافة رائعة لأي منزل. مصنوعة من المعدن المتين بألوان مختلفة لتناسب ديكور منزلك. التصميم عصري وأنيق، مما يجعلها قطعة أثاث مثالية لغرفة المعيشة أو غرفة النوم أو المكتب. تتميز الطاولة بمساحة سطح واسعة يمكن استخدامها لوضع الكتب والمجلات والمشروبات. سهلة التنظيف بالماء والصابون.",
+      "PictureUrl": "images/products/9b77027a-8161-4fda-b99a-29f39abd7f50WhatsApp Image 2024-06-12 at 15.12.59_f31bc06d.jpg",
+      "Price": 500,
+      "ProductBrandId": 16,
+      "ProductTypeId": 2,
+      "GovernrateId": 1
+    },
+    {
+      
+      "Name": "منضدة",
+      "Description": "طاولة جانبية خشبية مربعة هي إضافة رائعة لأي منزل. مصنوعة من خشب صلب متين بألوان مختلفة لتناسب ديكور منزلك. التصميم عصري وبسيط، مما يجعلها قطعة أثاث مثالية لغرفة المعيشة أو غرفة النوم أو المكتب. تتميز الطاولة بمساحة سطح واسعة يمكن استخدامها لوضع الكتب والمجلات والمشروبات.",
+      "PictureUrl": "images/products/74e7f2b1-b03b-482e-8888-b9d50abe81eeWhatsApp Image 2024-06-12 at 15.12.59_8eb27d72.jpg",
+      "Price": 750,
+      "ProductBrandId": 12,
+      "ProductTypeId": 2,
+      "GovernrateId": 1
+    },
+    {
+      
+      "Name": "صالون",
+      "Description": "أريكة حديثة فاخرة هي إضافة رائعة لأي منزل. مصنوعة من الجلد الفاخر بألوان مختلفة لتناسب ديكور منزلك. التصميم عصري وأنيق، مما يجعلها قطعة أثاث مثالية لغرفة المعيشة أو غرفة العائلة أو المكتب. الأريكة مريحة للجلوس، حتى بعد ساعات طويلة من الاسترخاء. متينة وقوية، وتتحمل الاستخدام اليومي",
+      "PictureUrl": "images/products/7676b62d-8932-45d6-bd8a-0f87152e3eb0WhatsApp Image 2024-06-12 at 15.13.00_175668cf.jpg",
+      "Price": 2500,
+      "ProductBrandId": 12,
+      "ProductTypeId": 2,
+      "GovernrateId": 1
+    },
+    {
+      
+      "Name": "اريكة",
+      "Description": "كنبة طويلة وعدد 2 كرسى مبطن بالاسفنج القوى يتميز بانها مصنوعة من الخشب الزان القزى",
+      "PictureUrl": "images/products/028267b8-11af-46f4-b5cd-64c12920c725WhatsApp Image 2024-06-12 at 15.13.00_1caa7417.jpg",
+      "Price": 6000,
+      "ProductBrandId": 13,
+      "ProductTypeId": 2,
+      "GovernrateId": 1
+    },
+    {
+      
+      "Name": "جزمة جلد طبيعى",
+      "Description": "حذاء شتوي للرجال من جلد أسود هو إضافة رائعة لأي خزانة ملابس شتوية. مصنوع من جلد أسود طبيعي عالي الجودة، يتميز بتصميم عصري وأنيق يجعله مثاليًا للارتداء مع مختلف الملابس. الحذاء دافئ ومريح للارتداء، حتى بعد ساعات طويلة من المشي. متين وقوي، ويتحمل الاستخدام اليومي. سهل التنظيف بالماء والصابون. مناسب للارتداء في الأيام الباردة.",
+      "PictureUrl": "images/products/8e2b6c25-6b12-460b-ae07-6f89a141a686WhatsApp Image 2024-06-12 at 15.13.18_63511424.jpg",
+      "Price": 400,
+      "ProductBrandId": 26,
+      "ProductTypeId": 4,
+      "GovernrateId": 3
+    },
+    {
+      
+      "Name": "جزمة رجالى بنى",
+      "Description": "حذاء شتوي للرجال من جلد البنىا. مصنوع من جلد بنىطبيعي عالي الجودة، يتميز بتصميم عصري وأنيق يجعله مثاليًا للارتداء مع مختلف الملابس. الحذاء دافئ ومريح للارتداء، حتى بعد ساعات طويلة من المشي. متين وقوي، ويتحمل الاستخدام اليومي.",
+      "PictureUrl": "images/products/ad083703-8282-4671-9d75-9ed8ed4453e6WhatsApp Image 2024-06-12 at 15.13.17_45285118.jpg",
+      "Price": 550,
+      "ProductBrandId": 26,
+      "ProductTypeId": 4,
+      "GovernrateId": 3
+    },
+  {
+
+    "Name": "طقم طواجن بغطاء طمى اسوانى",
+    "Description": "طقم طواجن بغطاء استخدام فرن فقط 3 قطع مقاس 16و20و24  سم عمق 7و8و10 سم",
+    "PictureUrl": "images/products/3535394.jpg",
+    "Price": 500,
+    "ProductBrandId": 19,
+    "ProductTypeId": 1,
+    "GovernrateId": 2
+  },
+    {
+      
+      "Name": "شنطة جلد",
+      "Description": "شنطة ظهر كاجوال من الجلد للاب توب من رحالا، مقاس 15.6 بوصة، متعددة الجيوب بلون بني- GLD 113",
+      "PictureUrl": "images/products/71ebc7cc-1203-485f-a816-1c439527beb151L5HTe6yWL._AC_SX679_.jpg",
+      "Price": 970,
+      "ProductBrandId": 26,
+      "ProductTypeId": 4,
+      "GovernrateId": 3
+    },
+    {
+      
+      "Name": "زعفران",
+      "Description": "هارات بطعم الزعفران",
+      "PictureUrl": "images/products/753307a5-ca94-4908-94a2-235931b500f7WhatsApp Image 2024-06-12 at 15.13.17_5fb7ea30.jpg",
+      "Price": 100,
+      "ProductBrandId": 20,
+      "ProductTypeId": 15,
+      "GovernrateId": 2
+    },
+    {
+      
+      "Name": "بورسلين",
+      "Description": "يتميز بصلابته ومقاومته العالية للسوائل مما يجعله يعيش عمر افتراضي اطول",
+      "PictureUrl": "images/products/f2704631-72d4-43bd-abf2-83fc1b6d978fWhatsApp Image 2024-06-12 at 18.21.47_42a063fd.jpg",
+      "Price": 250,
+      "ProductBrandId": 39,
+      "ProductTypeId": 10,
+      "GovernrateId": 5
+    },
+    {
+      
+      "Name": "زيت زيتون",
+      "Description": "زيت زيتون بكر لم تم عصره على البارد",
+      "PictureUrl": "images/products/43d50621-f523-4eb5-a136-d671b66414e1WhatsApp Image 2024-06-12 at 15.13.19_d1e14ff9.jpg",
+      "Price": 800,
+      "ProductBrandId": 32,
+      "ProductTypeId": 11,
+      "GovernrateId": 4
+    },
+    {
+      
+      "Name": "تمور",
+      "Description": "تمور اسوان",
+      "PictureUrl": "images/products/a99ce989-378f-40ef-90f4-47988247c557WhatsApp Image 2024-06-12 at 15.13.18_2752fe01.jpg",
+      "Price": 70,
+      "ProductBrandId": 30,
+      "ProductTypeId": 16,
+      "GovernrateId": 2
+    },
+    {
+      
+      "Name": "ثوب مترز",
+      "Description": "ثوب مترز يعبر عن ثقافة اسوان مترز باحجار كريمة",
+      "PictureUrl": "images/products/6843d418-5d48-4cfa-b152-802a63c3b786WhatsApp Image 2024-06-12 at 15.13.18_fc2c8067.jpg",
+      "Price": 780,
+      "ProductBrandId": 31,
+      "ProductTypeId": 8,
+      "GovernrateId": 4
+    },
+    {
+      
+      "Name": "سجاد",
+      "Description": "السجادة مصنعة من نسيج الشانيليا القطن بلمعة جانجا هايدي وبرة خفيفة و مضاد للبكتريا و الحساسية و تتميز بسهولة الغسيل و منسوجة بشكل مسطح خفيف الوزن و الجزء الخلفي مصنع من قماش قطني كانفس مضاد للانزلاق و تكنولچيا الصناعة هي الطباعة",
+      "PictureUrl": "images/products/86f5f924-b2f3-4676-aab1-18d9a98f8c81shopping.webp",
+      "Price": 2550,
+      "ProductBrandId": 43,
+      "ProductTypeId": 17,
+      "GovernrateId": 7
+    },
+    {
+      
+      "Name": "سمك",
+      "Description": "سمك سردين طازج",
+      "PictureUrl": "images/products/bcab32fc-a972-477c-a5bf-a6e5135cb8e8Sardin_from_sardegna_1.jpg",
+      "Price": 180,
+      "ProductBrandId": 28,
+      "ProductTypeId": 18,
+      "GovernrateId": 7
+    },
+    {
+      
+      "Name": "صندوق خشب",
+      "Description": "صندوق خشب مزخرف لحفظ المجوهرات",
+      "PictureUrl": "images/products/8d8d8d8dd8d.jpg",
+      "Price": 230,
+      "ProductBrandId": 45,
+      "ProductTypeId": 19,
+      "GovernrateId": 7
+    },
+    {
+      
+      "Name": "رخام",
+      "Description": "رخام اسوانى",
+      "PictureUrl": "images/products/bfb9a438-6aef-45da-a4db-45c18e59e8ddimages.jpeg",
+      "Price": 150,
+      "ProductBrandId": 14,
+      "ProductTypeId": 10,
+      "GovernrateId": 2
+    },
+    {
+      
+      "Name": "مرطب شفاه Lip Balm",
+      "Description": "مرطب شفاه بمكونات طبيعيه غنى بالمرطبات والمواد  المغذيه بعدة اطعمة  الفراولة - الكولا - الشيكولاتة - جوز الهند - الخوخ -  الكاب كيك",
+      "PictureUrl": "images/products/6affccc0-18a0-4515-8081-a37bb153b2b8WhatsApp Image 2024-06-12 at 18.17.41_0e9773dd.jpg",
+      "Price": 75,
+      "ProductBrandId": 46,
+      "ProductTypeId": 20,
+      "GovernrateId": 2
+    },
+    {
+      
+      "Name": "مخمريه برائحة العود - Makhmaria Oud",
+      "Description": "مخمريه بعطر العود الشرقى تفوح من العطر رائحة  خشبية تدوم طويلا ومناسبه للجنسين",
+      "PictureUrl": "images/products/9f237cfc-a69d-4545-83ec-5dc6df6c2ecfWhatsApp Image 2024-06-12 at 18.17.41_c101252a.jpg",
+      "Price": 150,
+      "ProductBrandId": 46,
+      "ProductTypeId": 20,
+      "GovernrateId": 2
+    },
+    {
+      
+      "Name": "الوصفه النوبيه - Nubian Recipe",
+      "Description": "تركيبه من 7 انواع زيوت طبيعيه مع زبدة الشيا  وفيتامين E وده يخليها الافضل لترطيب الشعر الجاف  وفرد الشعر المجعد",
+      "PictureUrl": "images/products/15282d33-3ad7-4868-a0f6-ab7cbd60d7bfWhatsApp Image 2024-06-12 at 18.17.41_ac4cd77b.jpg",
+      "Price": 325,
+      "ProductBrandId": 46,
+      "ProductTypeId": 20,
+      "GovernrateId": 2
+    },
+    {
+      
+      "Name": "حصيرة",
+      "Description": "حصيرة دائرية الشكل",
+      "PictureUrl": "images/products/fbdceab8-59af-4150-af4f-dbeb0743fecfWhatsApp Image 2024-06-12 at 15.13.18_b0fb7475.jpg",
+      "Price": 350,
+      "ProductBrandId": 47,
+      "ProductTypeId": 17,
+      "GovernrateId": 3
+    },
+    {
+      
+      "Name": "حصيرة",
+      "Description": "حصيرة ممتازة الجودة يدوية الصنع",
+      "PictureUrl": "images/products/03f25f80-7867-4e7f-9bf5-be0bfb18f1d3WhatsApp Image 2024-06-12 at 18.23.25_420c1f11.jpg",
+      "Price": 250,
+      "ProductBrandId": 47,
+      "ProductTypeId": 17,
+      "GovernrateId": 3
+    },
+    {
+      
+      "Name": "سجاد",
+      "Description": "تُصنع السجاد المصري من الصوف والحرير والقطن. تتميز بتصميماتها المعقدة وألوانها الزاهية. تُستخدم السجاد المصري لتزيين المنازل والأعمال التجارية",
+      "PictureUrl": "images/products/38ebf21c-2e2f-4b5e-b84f-454860bc5ba5images.jpg",
+      "Price": 450,
+      "ProductBrandId": 43,
+      "ProductTypeId": 17,
+      "GovernrateId": 6
+    },
+    {
+      
+      "Name": "طبق نحاس",
+      "Description": "يتميز إناء النحاس بشكل دائري  ، مع جدران سميكة وقاعدة مستوية. تأتي بأحجام وأشكال مختلفة، من الأواني الصغيرة إلى الأواني الكبيرة، وتستخدم لأغراض متنوعة",
+      "PictureUrl": "images/products/19b06965-8877-43d4-a97c-6febb358e216images (1).jpg",
+      "Price": 195,
+      "ProductBrandId": 48,
+      "ProductTypeId": 21,
+      "GovernrateId": 6
+    },
+    {
+      
+      "Name": "طبق نحاس",
+      "Description": "طبق نحاسي مزين بنقوش عربية.    الشكل: يتميز الطبق بشكله الدائري، مع حواف مرتفعة قليلاً. يبلغ قطر الطبق حوالي 30 سم.    المواد: يصنع الطبق من النحاس الأصفر، وهو معدن ناعم وقابل للطرق. يتميز النحاس بخصائص فريدة تجعله مثاليًا لصنع الأواني",
+      "PictureUrl": "images/products/1f611adf-029c-417f-8552-7974c1ca7cbedownload.jpg",
+      "Price": 225,
+      "ProductBrandId": 48,
+      "ProductTypeId": 21,
+      "GovernrateId": 6
+    }
+  ]
+  
+  

@@ -1,0 +1,17 @@
+[
+  { "Text": "هذا المنتج ممتاز", "BuyerEmail": "AlaaEwais@gmail.com", "ProductId": 1 },
+  { "Text": "هذا المنتج جيد", "BuyerEmail": "NadaMahmoud@gmail.com", "ProductId": 2 },
+  { "Text": "هذا المنتج مقبول", "BuyerEmail": "HaidyMohsen@gmail.com", "ProductId": 3 },
+  { "Text": "هذا المنتج سئ", "BuyerEmail": "Buyer@gmail.com", "ProductId": 4 },
+  { "Text": "خدمة جيدة وجودة عالية", "BuyerEmail": "AlaaEwais@gmail.com", "ProductId": 5 },
+  { "Text": "ليست كما توقعت", "BuyerEmail": "NadaMahmoud@gmail.com", "ProductId": 6 },
+  { "Text": "رائع جدا", "BuyerEmail": "HaidyMohsen@gmail.com", "ProductId": 7 },
+  { "Text": "لم يعجبني كثيرا", "BuyerEmail": "Buyer@gmail.com", "ProductId": 8 },
+  { "Text": "منتج ممتاز وسعر مناسب", "BuyerEmail": "AlaaEwais@gmail.com", "ProductId": 9 },
+  { "Text": "سيء للغاية", "BuyerEmail": "NadaMahmoud@gmail.com", "ProductId": 10 },
+  { "Text": "يستحق الشراء", "BuyerEmail": "HaidyMohsen@gmail.com", "ProductId": 11 },
+  { "Text": "خدمة عملاء ممتازة", "BuyerEmail": "Buyer@gmail.com", "ProductId": 12 },
+  { "Text": "أنصح بشرائه", "BuyerEmail": "AlaaEwais@gmail.com", "ProductId": 13 },
+  { "Text": "لم يلب توقعاتي", "BuyerEmail": "NadaMahmoud@gmail.com", "ProductId": 14 },
+  { "Text": "جودة ممتازة", "BuyerEmail": "HaidyMohsen@gmail.com", "ProductId": 15 }
+]
